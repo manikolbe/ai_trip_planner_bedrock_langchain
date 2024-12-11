@@ -27,7 +27,7 @@ The **Trip Itinerary Planner** is a web-based application built using Streamlit 
 1. Clone the repository:
    ```bash
    git clone https://github.com/manikolbe/ai_trip_planner_bedrock_langchain.git
-   cd trip-itinerary-planner
+   cd ai_trip_planner_bedrock_langchain
    ```
 2. Install dependencies:
    ```bash
