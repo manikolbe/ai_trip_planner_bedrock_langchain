@@ -4,6 +4,9 @@
 
 The **Trip Itinerary Planner** is a web-based application built using Streamlit that allows users to create personalized travel itineraries. It integrates various APIs and AI models to generate detailed day-by-day travel plans based on user input, weather forecasts, and attractions.
 
+![input form](form_screenshot.png "input form")
+![generated output](generated_itenary_screenshot.png "generated output")
+
 ## Features
 
 - **User-friendly Interface**: Input trip details, traveler preferences, and receive a tailored itinerary.
